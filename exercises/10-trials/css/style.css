@@ -2,3 +2,53 @@
     color: green;
 }
 
+#t2-s1 {
+    color:#f711f7;
+}
+#t2-s2 {
+    color:#f711f7;
+}
+
+#t3-s1 {
+    color:red;
+}
+#t3-s2 {
+    color:navajowhite;
+}
+#t3-s3 {
+    color:blue;
+}
+
+#t4 {
+    background-color: skyblue;
+}
+
+#t5-s1 {
+    background-color: yellow;
+}
+
+#t6-s1 {
+    font font-weight: bolder;
+}
+#t6-s2 {
+    font-weight: bolder;
+}
+
+#t7-s1 {
+    font-style: italic;
+}
+#t7-s2 {
+    font-weight: bolder;
+}
+#t7-s3 {
+    font-style: italic;
+}
+
+#t8-s1 {
+    text-decoration: underline;
+}
+#t8-s2 {
+    text-decoration: underline;
+}
+
+T
