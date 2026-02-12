@@ -1,0 +1,13 @@
+div {
+    border: 10px dashed red;
+    margin: 24px;
+    padding: 24px 48px;
+    background-color: #ffeadc;
+}
+p {
+    background-color: #d2d2ff;
+    margin: 60px;
+    padding: 48px 60px;
+    border: 2px solid #5858ff;
+    border-radius: 24px 50px 100px 0px;
+}
