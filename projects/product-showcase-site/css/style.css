@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 80%;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 60px 0;
+}
+
+section {
+    width: 100%;
+}
+
+.hero {
+    background-color: aqua;
+}
+
+.performance {
+    background-color: beige;
+}
+
+.electric {
+    background-color: crimson;
+}
+
+img {
+    width: 100%;
+    max-width: 500px;
+    margin: 20px 0;
+}
+
