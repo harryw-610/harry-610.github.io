@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 40px;
+  background-color: #fef6e4; 
+}
+
+.logo a {
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #8b5e3c; 
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 25px;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #5c3d2e;
+  font-weight: 500;
+}
+
+.subscribe-btn {
+  background-color: #ff7b54; 
+  color: white;
+  padding: 10px 18px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.subscribe-btn:hover {
+  background-color: #ff5722;
+}
