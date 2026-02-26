@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.basic-gal {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
