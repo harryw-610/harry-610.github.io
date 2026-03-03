@@ -26,7 +26,7 @@ body {
 }
 
 .hero {
-    background: url(images/urban-hi-res-.jpg) center/cover;
+    background: url(images/hero.jpg) center/cover;
     height: 80vh;
     display: flex;
     justify-content: center;
